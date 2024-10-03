@@ -1,4 +1,4 @@
-## Darico Colombo
+## Hi, I'm Dario Colombo
 
 Sono un professionista specializzato nello sviluppo di applicazioni web e nell'analisi dei dati. La mia passione per la tecnologia mi spinge costantemente a cercare nuove soluzioni per risolvere problemi reali.
 
